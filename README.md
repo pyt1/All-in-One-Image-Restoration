@@ -1,11 +1,16 @@
 # All-in-One-Image-Restoration
 ## 📖 All-in-one Image Restoration Paper List
 
+## 🧭 Navigation
+
+- **[Awesome-AiOIR-Methods](#all-in-one-image-restoration-paper-list)**
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2020](#2020) | [2021](#2021) | [2022](#2022) | [2023](#2023) | [2024](#2024) | [2025](#2025)
+
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| Enhancing Image Restoration Transformer via Adaptive Translation Equivariance <br><sub>JiaKui Hu, Zhengjian Yao, Lujia Jin, Hangzhou He, Yanye Lu</sub> | ICCV2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_Enhancing_Image_Restoration_Transformer_via_Adaptive_Translation_Equivariance_ICCV_2025_paper.pdf) | [Code] |
-| Dual-level Prototype Learning for Composite Degraded Image Restoration <br><sub>Zhongze Wang, Haitao Zhao, Lujian Yao, Jingchao Peng, Kaijie Zhao</sub> | ICCV2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Dual-level_Prototype_Learning_for_Composite_Degraded_Image_Restoration_ICCV_2025_paper.pdf) | [Code] |
+| Enhancing Image Restoration Transformer via Adaptive Translation Equivariance <br><sub>JiaKui Hu, Zhengjian Yao, Lujia Jin, Hangzhou He, Yanye Lu</sub> | ICCV2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_Enhancing_Image_Restoration_Transformer_via_Adaptive_Translation_Equivariance_ICCV_2025_paper.pdf) | [Code] ()|
+| Dual-level Prototype Learning for Composite Degraded Image Restoration <br><sub>Zhongze Wang, Haitao Zhao, Lujian Yao, Jingchao Peng, Kaijie Zhao</sub> | ICCV2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Dual-level_Prototype_Learning_for_Composite_Degraded_Image_Restoration_ICCV_2025_paper.pdf) | [Code] ()|
 | UniRes: Universal Image Restoration for Complex Degradations <br><sub>Mo Zhou, Keren Ye, Mauricio Delbracio, Peyman Milanfar, Vishal M. Patel,Hossein Talebi</sub> | ICCV2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_UniRes_Universal_Image_Restoration_for_Complex_Degradations_ICCV_2025_paper.pdf) | [Code]() |
 | EAMamba:Efficient All-Around Vision State Space Model for Image Restoration <br><sub>Yu-ChengLin, Yu-SyuanXu, Hao-WeiChen, Hsien-KaiKuo, Chun-YiLee</sub> | ICCV2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Lin_EAMamba_Efficient_All-Around_Vision_State_Space_Model_for_Image_Restoration_ICCV_2025_paper.pdf) | [Code](https://github.com/daidaijr/EAMamba) |
 | Conditional Visual Autoregressive Modeling for Pathological Image Restoration <br><sub>Ziyi Liu, Zhe Xu, Jiabo Ma, Wenqiang Li, Ruixuan Wang, Bo Du, Hao Chen</sub> | ICCV2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Conditional_Visual_Autoregressive_Modeling_for_Pathological_Image_Restoration_ICCV_2025_paper.pdf) | [Code](https://github.com/ziniBRC/CVARPath) |
