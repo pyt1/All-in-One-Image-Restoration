@@ -40,7 +40,6 @@
 |UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior<br><sub>I-Hsiang Chen, Wei-Ting Chen, Yu-Wei Liu, Yuan-Chun Chiang, Sy-Yen Kuo, Ming-Hsuan Yang</sub>|CVPR 2025|[Paper](https://arxiv.org/abs/2501.13134)|[Code](https://github.com/unirestore/UniRestore)|
 |Visual-Instructed Degradation Diffusion for All-in-One Image Restoration<br><sub>Haina Qin, Wenyang Luo, Zewen Chen, Yufan Liu, Bing Li, Weiming Hu, libin wang, DanDan Zheng, Yuming Li</sub>|CVPR 2025|[Paper](https://arxiv.org/abs/2506.16960)| [Code](https://github.com/luowyang/Defusion) |
 | M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration <br><sub></sub> | arXiv | [Paper](https://arxiv.org/abs/2506.07814) |  |
-| UniRes: Universal Image Restoration for Complex Degradations <br><sub></sub> | arXiv | [Paper](https://arxiv.org/abs/2506.05599) |  |
 | Boosting All-in-One Image Restoration via Self-Improved Privilege Learning <br><sub></sub> | arXiv | [Paper](https://arxiv.org/abs/2505.24207) | [Code](https://github.com/Aitical/SIPL) |
 | Navigating Image Restoration with VAR's Distribution Alignment Prior <br><sub>Siyang Wang, Feng Zhao</sub> | CVPR2025 | [Paper](https://arxiv.org/abs/2412.21063) | [Code](https://github.com/siywang541/Varformer) |
 | From Controlled Scenarios to Real-World: Cross-Domain Degradation Pattern Matching for All-in-One Image Restoration <br><sub>Junyu Fan, Chuanlin Liao, Yi Lin</sub> | arXiv | [Paper](https://arxiv.org/abs/2505.22284) |  |
